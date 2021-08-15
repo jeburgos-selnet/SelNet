@@ -1,2 +1,2 @@
 # schizophrenia
-Files to run the simulations of weak Pavlovian conditioning in schizophrenia with the Donahoe-Burgos-Palmer model.
+ Delphi source code for the simulator of the Donahoe-Burgos-Palmer model.
